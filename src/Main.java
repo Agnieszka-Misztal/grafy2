@@ -13,7 +13,7 @@ public class Main {
 
     public static void main(String[] args) throws IOException, SAXException {
 
-        GXLDocument gxlDocument = new GXLDocument(new File("simpleExample.gxl"));
+        GXLDocument gxlDocument = new GXLDocument(new File("simpleexample5.gxl"));
 
         List<String> idNode = new ArrayList<String>();
 
